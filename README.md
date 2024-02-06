@@ -1,4 +1,4 @@
-# Open Terms Archive - Contrib
+# Open Terms Archive - Contrib - test 2
 
 These services declarations are added and maintained by volunteer contributors, with occasional reviews from the Open Terms Archive core team. Most of these declarations were historically imported from TOSBack.org.
 
