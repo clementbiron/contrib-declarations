@@ -1,41 +1,4 @@
 {
   "name": "Grammarly",
-  "documents": {
-    "Commercial Terms": {
-      "fetch": "https://www.grammarly.com/terms/customer-business-agreement",
-      "select": [
-        "main"
-      ],
-      "remove": [
-        "h2 br"
-      ]
-    },
-    "Acceptable Use Policy": {
-      "fetch": "https://www.grammarly.com/acceptable-use-policy",
-      "select": [
-        "main"
-      ],
-      "remove": [
-        "h2 br"
-      ]
-    },
-    "Privacy Policy": {
-      "fetch": "https://www.grammarly.com/privacy-policy",
-      "select": [
-        "main"
-      ],
-      "remove": [
-        "h2 br"
-      ]
-    },
-    "Terms of Service": {
-      "fetch": "https://www.grammarly.com/terms",
-      "select": [
-        "main"
-      ],
-      "remove": [
-        "h2 br"
-      ]
-    }
-  }
+  "documents": {}
 }
